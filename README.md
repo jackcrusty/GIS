@@ -3,4 +3,5 @@
 
 Sozialstruktur 2025 nach Planungsräumen
 
-![enter image description here](file:///U:/Einf%C3%BChrung%20Geoinformation/%C3%9Cbung1/Layout/Layout.png)
+<img width="1753" height="1240" alt="Layout" src="https://github.com/user-attachments/assets/b2c8eb30-07d9-4b40-adfa-fd6410ab9b5e" />
+
